@@ -2,13 +2,13 @@
 
 I'm a **Software Engineering Technical Leader at Cisco Systems** with 20+ years working across network architecture, cloud infrastructure, automation, and software delivery. Started coding around age 10 and never really stopped.
 
-These days I lead the engineering team building **Cisco IQ On-Prem** — a Kubernetes-based appliance that runs Cisco applications on customer infrastructure. The work touches platform engineering, AI-integrated developer tooling, and full-stack Python/FastAPI development.
+These days I lead the engineering team building **Cisco IQ On-Prem** — an on-premises appliance that runs Cisco applications on customer infrastructure. The work touches platform engineering, AI-integrated developer tooling, and full-stack Python/FastAPI development.
 
 ---
 
 ## 🔭 What I'm focused on
 
-- **Cisco IQ On-Prem** — Kubernetes-based on-premises platform for enterprise Cisco application delivery
+- **Cisco IQ On-Prem** — on-premises platform for enterprise Cisco application delivery
 - Building **AI-powered developer tools** with LangChain and LangGraph to improve team workflows
 - **Technical leadership** for a distributed engineering team shipping quarterly releases
 - **Full-stack Python** (FastAPI, Django) and infrastructure-as-code
