@@ -1,17 +1,17 @@
 # Hi, I'm Luis 👋
 
-I'm a **Software Architect at Cisco Systems** with 20+ years building technology across two demanding industries — **telecommunications** and **enterprise healthcare**. I've spent my career designing and operating systems where reliability isn't optional.
+I'm a **Software Engineering Technical Leader at Cisco Systems** with 20+ years working across network architecture, cloud infrastructure, automation, and software delivery. Started coding around age 10 and never really stopped.
 
-These days I work at the intersection of **network intelligence**, **AI/LLM development**, and **large-scale automation** — turning complex infrastructure problems into elegant, programmable solutions.
+These days I lead the engineering team building **Cisco IQ On-Prem** — a Kubernetes-based appliance that runs Cisco applications on customer infrastructure. The work touches platform engineering, AI-integrated developer tooling, and full-stack Python/FastAPI development.
 
 ---
 
 ## 🔭 What I'm focused on
 
-- Building **AI-powered assistants and LLM-based tools** for real-world workflows
-- **Network automation** at scale using Python and Ansible
-- **Software architecture** for distributed, high-availability systems
-- Exploring the edge where **telecom infrastructure meets modern AI**
+- **Cisco IQ On-Prem** — Kubernetes-based on-premises platform for enterprise Cisco application delivery
+- Building **AI-powered developer tools** with LangChain and LangGraph to improve team workflows
+- **Technical leadership** for a distributed engineering team shipping quarterly releases
+- **Full-stack Python** (FastAPI, Django) and infrastructure-as-code
 
 ---
 
@@ -23,16 +23,25 @@ These days I work at the intersection of **network intelligence**, **AI/LLM deve
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Automation & Infrastructure
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+### Frameworks & Platforms
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### AI & Dev Tools
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+**CCIE #16162** (Routing & Switching — 15 years active) | **CCDE #20110001** (15 years active)
 
 ---
 
@@ -54,4 +63,4 @@ These days I work at the intersection of **network intelligence**, **AI/LLM deve
 
 ---
 
-*When I'm not architecting systems, I'm on a clay tennis court somewhere in Colombia. ☕🎾*
+*When I'm not shipping, I'm on a clay tennis court somewhere in Colombia. ☕🎾*
